@@ -23,7 +23,15 @@ A Python project that uses AI to detect **age** and **facial emotion** (happy, s
   - `tf-keras`
 
 ---
+## **References**
 
+DeepFace GitHub
+
+OpenCV Documentation
+
+TensorFlow 
+ ---
+ 
 ## **Installation**
 
 1. **Clone this repository** or download the folder.
@@ -32,11 +40,4 @@ A Python project that uses AI to detect **age** and **facial emotion** (happy, s
 git clone <YOUR_REPO_LINK>
 cd AgeEmotionDetector
 
---- 
-## **References**
 
-DeepFace GitHub
-
-OpenCV Documentation
-
-TensorFlow
