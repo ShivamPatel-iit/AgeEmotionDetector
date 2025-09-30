@@ -31,3 +31,12 @@ A Python project that uses AI to detect **age** and **facial emotion** (happy, s
 ```bash
 git clone <YOUR_REPO_LINK>
 cd AgeEmotionDetector
+
+--- 
+## **References**
+
+DeepFace GitHub
+
+OpenCV Documentation
+
+TensorFlow
